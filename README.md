@@ -1,1 +1,0 @@
-# Smart-Event-Management-System
